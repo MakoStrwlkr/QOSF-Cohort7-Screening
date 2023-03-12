@@ -1,6 +1,6 @@
 # QOSF Cohort 7 Screening
 
-## Task 7
+## Task 4
 
 Design a function that generates a random quantum circuit by considering as parameters the number of qubits, the number of depths, and the base of gates to be used. You could only use the quantum gates of 1 and 2 qubits.
 
